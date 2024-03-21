@@ -1,0 +1,7 @@
+H:\visual c#\Ngay19032024\Ngay19032024\Ngay19032024\bin\Debug\Ngay19032024.exe.config
+H:\visual c#\Ngay19032024\Ngay19032024\Ngay19032024\bin\Debug\Ngay19032024.exe
+H:\visual c#\Ngay19032024\Ngay19032024\Ngay19032024\bin\Debug\Ngay19032024.pdb
+H:\visual c#\Ngay19032024\Ngay19032024\Ngay19032024\obj\Debug\Ngay19032024.csproj.AssemblyReference.cache
+H:\visual c#\Ngay19032024\Ngay19032024\Ngay19032024\obj\Debug\Ngay19032024.csproj.CoreCompileInputs.cache
+H:\visual c#\Ngay19032024\Ngay19032024\Ngay19032024\obj\Debug\Ngay19032024.exe
+H:\visual c#\Ngay19032024\Ngay19032024\Ngay19032024\obj\Debug\Ngay19032024.pdb
